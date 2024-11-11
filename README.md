@@ -14,7 +14,7 @@ diagramskor는 diagrams 라이브러리를 확장한 라이브러리입니다.
 diagramskor를 설치하려면 다음 명령어를 사용하세요:
 
 ```bash
-pip install git+https://github.com/jyjung/diagramskor@master
+pip install git+https://github.com/jyjung/diagramskor@main
 ```
 
 설치가 완료되면, diagramskor를 사용하여 다이어그램을 생성할 수 있습니다.
