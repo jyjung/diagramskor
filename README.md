@@ -1,7 +1,7 @@
 # diagramskor
 
 diagramskor는 diagrams 라이브러리를 확장한 라이브러리입니다. 
-이 라이브러리는 diagrams의 Custom 클래스를 이용해서 한국 사이트들의 클라우드의 아이콘을 추가했습니다.  
+이 라이브러리는 diagrams의 Custom 클래스를 이용해서 한국 클라우드 서비스들의 아이콘을 추가했습니다.  
 
 | 서비스 | 완료 여부 |
 |---| ---|
