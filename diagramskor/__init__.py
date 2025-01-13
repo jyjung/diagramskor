@@ -21,6 +21,7 @@ service_list = [
     ("shieldshare", os.path.join(get_current_path(), "shieldshare.png")),
     ("redis", os.path.join(get_current_path(), "redis.png")),
     ("chatgpt", os.path.join(get_current_path(), "chatgpt.png"))
+    ("user", os.path.join(get_current_path(), "user.png"))    
 ]
 
 def get_node(nodename: str, name: str):
