@@ -3,7 +3,7 @@ import os
 
 setup(
     name='diagramskor',
-    version='0.2',
+    version='0.3',
     packages=find_packages(),
     include_package_data=True,
     package_data={
