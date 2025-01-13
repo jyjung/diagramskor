@@ -21,6 +21,7 @@ service_list = [
     ("shieldshare", os.path.join(get_current_path(), "shieldshare.png")),
     ("redis", os.path.join(get_current_path(), "redis.png")),
     ("chatgpt", os.path.join(get_current_path(), "chatgpt.png")),
+    ("llama", os.path.join(get_current_path(), "llama.png")),    
     ("user", os.path.join(get_current_path(), "user.png"))    
 ]
 
